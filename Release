@@ -5,7 +5,7 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Johnzaro's Perfect Repository
+Description: Johnzaro's Cydia Repository
 
 SHA256:
  bf3cde54a4506c7e9b12e43fafe5eb5fc1527d53929c0f7f45aef6788100c868 5318 Packages.bz2
