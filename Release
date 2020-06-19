@@ -1,0 +1,12 @@
+Origin: Johnzaro's Perfect Repo
+Label: Johnzaro's Perfect Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Johnzaro's Perfect Repository
+
+SHA256:
+ 3dea0e05e65cd8aa8a217be7a55aa178507a0fd19c81e7861f8998313ac69d6a 5299 Packages.bz2
+ 5c98fa4e2beb351bd926a24431c715fb6da121206866fa8bd8f8fbb18b0d36f5 5408 Packages.xz
