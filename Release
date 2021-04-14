@@ -1,5 +1,5 @@
-Origin: Johnzaro's Perfect Repo
-Label: Johnzaro's Perfect Repo
+Origin: Johnzaro's Repo
+Label: Johnzaro's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
@@ -8,5 +8,5 @@ Components: main
 Description: Johnzaro's Cydia Repository
 
 SHA256:
- 88c873fe0cdcb16437caf9d79dcc8065798b9d9b90d1f9f106a62b9822ce5421 5330 Packages.bz2
- 9f9c0410cc329f09891685196b8a970ed550ff4c8824a304da72a94a3126ca7f 5444 Packages.xz
+ 179622da951201a100a10fc83cdb2da61e8bff68bbc51487058d9bb7d565ae2a 5522 Packages.bz2
+ f5b52c133906c5f4a796c8540531d4d50e300496e2a2c4dcbc6da8cab670831c 5656 Packages.xz
